@@ -1,0 +1,1 @@
+int write_str2file();
