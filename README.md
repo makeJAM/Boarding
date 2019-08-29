@@ -1,2 +1,3 @@
-# boarding
-info for board
+# Board info
+
+collection of info based on topics for board
