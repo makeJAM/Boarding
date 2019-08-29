@@ -1,3 +1,0 @@
-# STACK SETUP CLEANUP
-
-## WIP
